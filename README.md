@@ -20,7 +20,7 @@ To run and test the game, follow these steps:
 
 Prerequisites: Make sure you have Unity installed on your system.
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/tic-tac-toe.git
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/AghazadaTofiq/TicTacToe.git 
 
 Open in Unity: Open the Unity game engine.
 
